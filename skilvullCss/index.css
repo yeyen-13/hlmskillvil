@@ -1,0 +1,54 @@
+* {
+  cursor: pointer;
+}
+#vavbar {
+  text-decoration: none;
+  background-color: lightskyblue;
+}
+#vavbar a {
+  font-family: sans-serif;
+  color: black;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-decoration: none;
+  font-weight: 400;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  text-transform: capitalize;
+}
+#vavbar a:hover {
+  background-color: gainsboro;
+}
+
+#daftar-siswa {
+  background-color: gainsboro;
+}
+#daftar-siswa p:hover {
+  background-color: #859bc7;
+}
+.siswa-pintar {
+  background-color: blue;
+}
+.siswa-ulang {
+  background-color: #f87171;
+}
+#siswa {
+  background-color: gainsboro;
+  color: #f3f4f6;
+}
+#siswa p:hover {
+  background-color: #44516b;
+  color: #111827;
+}
+#siswa p {
+  font-family: sans-serif;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-transform: capitalize;
+  font-weight: 400;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
